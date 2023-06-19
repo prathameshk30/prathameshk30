@@ -8,7 +8,7 @@ Hi, I am Prathamesh Kulkarni 👋
 
 💻 Data Engineering
 
-🏃 Football enthusiast
+🏃 Football (soccer) & atheletic enthusiast
 
 🎸 Guitar
 

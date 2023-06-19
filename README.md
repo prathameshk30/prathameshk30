@@ -13,3 +13,5 @@ Hi, I am Prathamesh Kulkarni 👋
 🎸 Guitar
 
 📖 History
+
+Research interest :- Econometric Analysis, Natural language Processing, Developing custom Algorithm.

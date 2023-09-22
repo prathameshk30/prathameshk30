@@ -8,10 +8,4 @@ Hi, I am Prathamesh Kulkarni 👋
 
 💻 Data Engineering
 
-🏃 Football (soccer) & atheletic enthusiast
-
-🎸 Guitar
-
-📖 History
-
 Research interest :- Econometric Analysis, Natural language Processing, Developing custom Algorithm.

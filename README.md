@@ -10,4 +10,4 @@ Hi, I am Prathamesh Kulkarni 👋
 
 Research interest :- Econometric Analysis, Natural language Processing, Developing custom Algorithm.
 
-Skills:- Python, SQL, C++, PySpark, R
+Skills:- Python, SQL, C++, PySpark, Git

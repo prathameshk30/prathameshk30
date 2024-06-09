@@ -4,7 +4,7 @@ Hi, I am Prathamesh Kulkarni 👋
 
 👦 Data Science Graduate from Oklahoma State University
 
-💻 Data Engineering
+💻 Machine Learning / Data Engineering
 
 Research interest :- Econometric Analysis, Natural language Processing, Developing custom Algorithm (Pricing)
 

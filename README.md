@@ -6,6 +6,6 @@ Hi, I am Prathamesh Kulkarni 👋
 
 💻 Machine Learning / Data Engineering
 
-Research interest :- Dveloping custom Pricing Algorithm.
+Research interest :- Developing custom Pricing Algorithm.
 
 Skills:- Python, SQL, C++, PySpark, Git

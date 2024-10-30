@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hi, I am Prathamesh Kulkarni 👋
+I am Prathamesh.
 
-👦 Data Science Graduate from Oklahoma State University
+Data Science Graduate from Oklahoma State University
 
 💻 Machine Learning / Data Engineering
 
